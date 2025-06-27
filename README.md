@@ -1,3 +1,15 @@
+## 📜 License
+
+This project contains code originally licensed under the MIT License by [alfizari](https://github.com/alfizari), [thewerthon](https://github.com/thewerthon) and [msurkein](https://github.com/msurkein).
+
+My contributions are licensed under the GNU General Public License vX (GPLvX).
+
+See the LICENSE files for details.
+
+<details>
+
+<summary>🔹 ORIGINAL README: Elden Ring Nightreign Save Editor PS4</summary>
+
 # Elden Ring Nightreign Save Editor PS4
 
 A powerful and easy-to-use save editor for Elden Ring on PS4 (Latest Update)
@@ -95,5 +107,4 @@ Thanks to Mike D, check his channel at discord https://discord.gg/gamers-paradis
 
 </details>
 
-
-
+</details>
